@@ -9,7 +9,7 @@ from music_cogs import music_cog
 from vote_cogs import vote_cog
 from test_vote import test_vote
 
-TOKEN = 'OTg4NzkzMjU4OTYyNDYwNzEy.G0Adc-.1Ik6EDTsc_7-9Xgy7i5_oKyYOkSFMcyH7PnEvE'
+TOKEN = '[YOUR_API_TOKEN]'
 
 client = commands.Bot(command_prefix = '?')
 client.remove_command('help')
